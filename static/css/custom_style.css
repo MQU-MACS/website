@@ -1,0 +1,18 @@
+#home-title {
+    font-family: "Roboto", sans-serif;
+    font-style: italic;
+}
+
+#title-first-two {
+    color: #95c5f1;
+}
+
+.social-icon-discord {
+    transform: translate(0, 9px);
+}
+
+.social-icon:hover {
+    transition: 0.2s;
+    filter: drop-shadow(0 0 1.25px #fff);
+}
+
