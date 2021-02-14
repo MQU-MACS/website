@@ -14,7 +14,7 @@ We strive to help Macquarie University computing and IT students up-skill and im
 - **President:** Jordan Bertasso
 - **Vice President:** Alex Taylor
 - **Secretary:** Lucianna Salloum
-- **Treasury:** Nataly Falero
+- **Treasurer:** Nataly Falero
 - **Computing Represenative:** Michael Parker
 - **Postgraduate Representative:** Elise McCabe
 - **Cyber Security Represenative:** Jesse Nguyen
