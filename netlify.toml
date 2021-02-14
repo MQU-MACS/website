@@ -24,4 +24,4 @@ HUGO_ENABLEGITINFO = "true"
   # Define which paths this specific [[headers]] block will cover.
   for = "/*"
     [headers.values]
-    Access-Control-Allow-Origin = "https://macs.codes"
+    Access-Control-Allow-Origin = "https://www.macs.codes"
