@@ -3,7 +3,7 @@
 
 [build]
 publish = "public"
-command = "hugo --gc --minify --forceSyncStatic -b $DEPLOY_PRIME_URL"
+command = "hugo --gc --minify --forceSyncStatic"
 
 [context.deploy-preview]
 command = "hugo --gc --minify --forceSyncStatic --buildFuture -b $DEPLOY_PRIME_URL"
