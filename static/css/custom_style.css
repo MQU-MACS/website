@@ -1,0 +1,46 @@
+h1, h2, h3 {
+    color: #95c5f1;
+}
+
+#home-title {
+    font-family: "Roboto", sans-serif;
+    font-style: italic;
+}
+
+#title-first-two {
+    color: #95c5f1;
+}
+
+.social-icon-discord {
+    transform: translate(0, 9px);
+}
+
+.social-icon:hover {
+    transition: 0.2s;
+    filter: drop-shadow(0 0 1.25px #fff);
+}
+
+.single-title {
+    color: #95c5f1;
+}
+
+.max-image-size img {
+    min-width: 60%;
+    max-width: 60%;
+    padding: 1em 0;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 4rem;
+}
+
+.grid img {
+    height: 100px;
+    object-fit: scale-down;
+}
+
+.sponsors-container > p {
+    text-align: justify;
+}

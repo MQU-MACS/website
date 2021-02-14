@@ -1,0 +1,27 @@
+[context.production.environment]
+  HUGO_VERSION = "0.80.0"
+
+[build]
+publish = "public"
+command = "hugo --gc --minify --forceSyncStatic"
+
+[context.deploy-preview]
+command = "hugo --gc --minify --forceSyncStatic --buildFuture -b $DEPLOY_PRIME_URL"
+
+[context.deploy-preview.environment]
+HUGO_VERSION = "0.80.0"
+
+[context.branch-deploy]
+command = "hugo --gc --minify --forceSyncStatic -b $DEPLOY_PRIME_URL"
+
+[context.branch-deploy.environment]
+HUGO_VERSION = "0.80.0"
+
+[context.next.environment]
+HUGO_ENABLEGITINFO = "true"
+
+[[headers]]
+  # Define which paths this specific [[headers]] block will cover.
+  for = "/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "https://www.macs.codes"
