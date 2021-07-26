@@ -12,13 +12,12 @@ We strive to help Macquarie University computing and IT students up-skill and im
 
 ## Executive Team
 - **President:** Jordan Bertasso
-- **Vice President:** Alex Taylor
-- **Secretary:** Lucianna Salloum
+- **Vice President:** Lucianna Salloum
+- **Secretary:** David Sanders
 - **Treasurer:** Nataly Falero
 - **Computing Represenative:** Michael Parker
-- **Postgraduate Representative:** Elise McCabe
 - **Cyber Security Represenative:** Jesse Nguyen
-- **General Executives:** Jack Moore, Liam Strang
+- **General Executive:** Liam Strang
 
 If you are interested in getting involved, please talk to any of our friendly executives.
 
