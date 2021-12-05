@@ -1,7 +1,7 @@
 ---
 author: "MACS"
-date: 14-02-2021
 title: About 
+title: Executive Team -	Second Half 2021
 ---
 
 ## Macquarie Association of Computing Students
@@ -14,9 +14,9 @@ We strive to help Macquarie University computing and IT students up-skill and im
 - **President:** Jordan Bertasso
 - **Vice President:** Lucianna Salloum
 - **Secretary:** David Sanders
-- **Treasurer:** Liam Strang
+- **Treasurer:** Nataly Falero
 - **Computing Representative:** Michael Parker
 - **Cyber Security Representative:** Jesse Nguyen
-- **General Executives:** Dominic Hartman and Zahlia Hamer 
+- **General Executive:** Liam Strang
 
 If you are interested in getting involved, please talk to any of our friendly executives.

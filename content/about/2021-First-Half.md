@@ -10,7 +10,7 @@ title: Executive Team -	First Half 2021
 - **Vice President:** Alex Taylor
 - **Secretary:** Lucianna Salloum
 - **Treasurer:** Nataly Falero
-- **Computing Represenative:** Michael Parker
+- **Computing Representative:** Michael Parker
 - **Postgraduate Representative:** Elise McCabe
-- **Cyber Security Represenative:** Jesse Nguyen
+- **Cyber Security Representative:** Jesse Nguyen
 - **General Executives:** Jack Moore, Liam Strang
