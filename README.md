@@ -1,3 +1,3 @@
 # MACS Website
 
-https://macs.codes
+Deployment managed via Netlify
