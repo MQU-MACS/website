@@ -23,3 +23,9 @@ h1, h2, h3 {
 .single-title {
     color: #95c5f1;
 }
+
+.max-image-size img {
+    min-width: 60%;
+    max-width: 60%;
+    padding: 2em 0;
+}

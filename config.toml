@@ -72,6 +72,11 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     weight = 10
 
   [[menu.main]]
+    name = "Sponsors"
+    url = "sponsors"
+    weight = 20
+
+  [[menu.main]]
     name = "Discord"
     url = "https://discord.macs.codes"
-    weight = 20
+    weight = 30
