@@ -4,6 +4,10 @@ date: 14-02-2021
 title: Sponsors
 # layout: sponsors
 ---
+### Enquiries
+
+Are you interested in partnering with us? Contact us at [macs.exec@gmail.com](mailto://macs.exec@gmail.com)
+
 
 [![Atlassian](/horizontal-logo-gradient-blue-atlassian.png)](https://atlassian.com)
 

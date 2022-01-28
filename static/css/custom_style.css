@@ -24,6 +24,10 @@ h1, h2, h3 {
     color: #95c5f1;
 }
 
+.max-image-size p:nth-of-type(2) img {
+    padding-top: 3em;
+}
+
 .max-image-size img {
     min-width: 60%;
     max-width: 60%;
