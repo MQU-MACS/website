@@ -5,8 +5,10 @@
 {{ define "main" }}
 	<main class="site-main section-inner thin animated fadeIn faster">
 		<h1>{{ .Title }}</h1>
+        <h3 id="enquiries">Enquiries</h3>
+        <p>Are you interested in partnering with us? Contact us at <a href="mailto://macs.exec@gmail.com">macs.exec@gmail.com</a></p>
 		{{- if .Content }}
-		<div class="content max-image-size">
+		<div class="content grid max-image-size">
 			{{ .Content }}
 		</div>
 		{{- end }}
