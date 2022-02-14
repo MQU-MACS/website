@@ -4,7 +4,7 @@ date: 14-02-2021
 title: About 
 ---
 
-## Macquarie Association of Computing Students
+## Macquarie Association of Computing Students Test
 
 MACS is a student run association founded in 2017 by computing students, for computing students.
 
