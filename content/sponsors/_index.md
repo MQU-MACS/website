@@ -2,8 +2,6 @@
 author: "MACS"
 date: 14-02-2021
 title: Sponsors
-subtitle: Enquiries
-subcontent: Are you interested in partnering with us? Contact us at macs.exec@gmail.com
 # layout: sponsors
 ---
 
