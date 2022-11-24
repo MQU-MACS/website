@@ -15,7 +15,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
 [author]
   name = "Macquarie Association of Computing Students"
-  url = "https://github.com/jordanbertasso"
+  url = "https://github.com/MQU-MACS"
 
 [blackfriday]
   # hrefTargetBlank = true
