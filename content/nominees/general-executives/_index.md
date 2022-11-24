@@ -31,7 +31,7 @@ I've been on MACS for a while and thought it should be about time I help out heh
 
 ---
 
-## Andrew Blake - Izrid#0586
+## Andy Blake - Izrid#0586
 
 ### Degree
 Bachelor of Information Technology - Cyber Security
