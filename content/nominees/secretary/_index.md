@@ -5,7 +5,7 @@ title: Secretary Nominee 2022
 weight: 3
 ---
 
-## Vincenzo (Yun Chang) Huh
+## Vincenzo (Yun Chang) Huh - Vincensus#4782
 
 ### Degree
 Bachelor of Information Technology - Software Technology

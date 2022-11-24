@@ -5,7 +5,7 @@ title: General Executive Nominees 2022
 weight: 1
 ---
 
-## Robert Kangro
+## Robert (Toast) Kangro - Toastee#0205
 
 ### Degree
 Bachelor of Engineering (Hons) with a Specialisation in Software Engineering
@@ -18,7 +18,7 @@ As mentioned in my "About" section, I'm a passionate programmer, having been aro
 
 ---
 
-## Cathy Nguyen
+## Cathy Nguyen - keshii#8888
 
 ### Degree
 Bachelor of Information Technology - Web Technology
@@ -31,7 +31,7 @@ I've been on MACS for a while and thought it should be about time I help out heh
 
 ---
 
-## Andrew Blake
+## Andrew Blake - Izrid#0586
 
 ### Degree
 Bachelor of Information Technology - Cyber Security
@@ -44,7 +44,7 @@ Was the peer pressure really. Also to organise events for MACS, social things et
 
 ---
 
-## Guriqbal Singh Majhail
+## Guriqbal Singh Majhail - Scara2016#3381
 
 ### Degree
 Bachelor of Game Design and Development 
