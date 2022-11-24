@@ -57,3 +57,16 @@ Bachelor of Game Design and Development 
 
 ### Motivation for Application
 MACS is cool. It needs more game development events. There are a lot of talented people in MACS and I would like to learn from them.
+
+---
+
+## Devyani Bhattacharya - devy_xx#5629
+
+### Degree
+Bachelor of Information Technology - Cyber Security and Bachelor of Psychology
+
+### About
+I am a first year student, pursuing a double degree in a Bachelor of Information Technology - Majoring in Cyber Security! along with a Bachelor of Psychology at Macquarie University. This combines both my passions and allows me to understand the human mind and apply this knowledge into evolving  Social Media Platforms, upcoming Artificial Intelligence technologies and machine learning.  My personality is often described  as proactive, social  and a great communicator . I would love to contribute my current knowledge and qualities to benefit the MACS team, as well as, make it a more resourceful, knowledgeable, supportive and welcoming community for everyone pursuing technology careers -regardless of their current knowledge level.
+
+### Motivation for Application
+My current double degree combination allows me to combine the understanding of the human mind, with the evolving nature of technology. Hence, I am extremely keen to apply for Social media roles, as this will not only combine my skills and passions, but also yield out the best results and benefit all parties involved. I am passionate towards improving the quality, accessibility and participation of MACS society and would be honored to represent it at Social Events and Social Media platforms. Additionally I have previous experience with Event organizing and contributing to Social Media platforms - by not only party hosting every weekend, but also making contributions to the official Instagram page of Flipout Marsden Park.
