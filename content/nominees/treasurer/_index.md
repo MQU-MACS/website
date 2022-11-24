@@ -1,7 +1,7 @@
 ---
 author: "MACS"
 date: 24-11-2022
-title: Treasurer Nominees 2022
+title: Treasurer Nominee 2022
 weight: 2
 ---
 

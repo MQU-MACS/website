@@ -1,7 +1,7 @@
 ---
 author: "MACS"
 date: 24-11-2022
-title: President Nominees 2022
+title: President Nominee 2022
 weight: 5
 ---
 

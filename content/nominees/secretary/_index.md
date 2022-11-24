@@ -1,7 +1,7 @@
 ---
 author: "MACS"
 date: 24-11-2022
-title: Secretary Nominees 2022
+title: Secretary Nominee 2022
 weight: 3
 ---
 
