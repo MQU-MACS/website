@@ -1,6 +1,7 @@
 ---
 author: "MACS"
 title: Executive Team -	First Half 2021
+weight: 5
 ---
 
 ## Macquarie Association of Computing Students
