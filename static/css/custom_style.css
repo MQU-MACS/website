@@ -10,6 +10,9 @@ h1, h2, h3 {
 #title-first-two {
     color: #95c5f1;
 }
+#title-last-two{
+    color: #ffffff;
+}
 
 .social-icon-discord {
     transform: translate(0, 9px);
