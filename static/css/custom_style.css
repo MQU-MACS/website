@@ -7,10 +7,11 @@ h1, h2, h3 {
     font-style: italic;
 }
 
-#title-first-two {
+.span>#title-first-two {
     color: #95c5f1;
 }
-#title-last-two{
+
+.span>#title-last-two{
     color: #ffffff;
 }
 
