@@ -62,7 +62,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   [[params.social]]
     name = "discord"
-    url = "https://discord.macs.codes"
+    url = "https://discord.gg/macs"
 
 [menu]
 
@@ -78,5 +78,5 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   [[menu.main]]
     name = "Discord"
-    url = "https://discord.macs.codes"
+    url = "https://discord.gg/macs"
     weight = 30
