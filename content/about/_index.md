@@ -15,6 +15,7 @@ We strive to help Macquarie University computing and IT students up-skill and im
 - **Vice President:** Kay Mcloughlin
 - **Secretary:** Vincenzo YC Huh
 - **Treasurer:** Kabir Acharya
-- **General Executives:** Jordan Bertasso, Lucianna Salloum, Cathy Nguyen, Andy, Toast Kangro
+- **Social Media Manager:** Izabella Lloyd-White
+- **General Executives:** Jordan Bertasso, Lucianna Salloum, Cathy Nguyen, Andy, Toast Kangro, Parth Shah, Caleb Cruz, Mark Saba
 
 If you are interested in getting involved, please talk to any of our friendly executives.
